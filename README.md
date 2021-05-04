@@ -1,2 +1,3 @@
 # nonogram-solver
-simple JavaScript practice
+Simple JavaScript practice
+Building a client-side nonogram solver
